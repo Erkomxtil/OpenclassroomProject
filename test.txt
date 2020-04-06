@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 je test c'est différent ici.
 je fais un test avec les commits
-=======
-je test c'est différent ici.
->>>>>>> 5c96212... différent
